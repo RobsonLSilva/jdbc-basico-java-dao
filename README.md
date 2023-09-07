@@ -10,7 +10,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/build-Robson%20Luiz-0e76a8?logo=linkedin&logoColor=white&label=By&labelColor=0e76a8">
 
   </a>
-  <a href="https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/LICENSE">
+  <a href="https://github.com/RobsonLSilva/jdbc-basico-java-dao/blob/master/LICENSE">
       <img alt="By Robson Luiz" src="https://img.shields.io/github/license/RobsonLSilva/jdbc-basico-java.svg?colorB=ff0000">
   </a> 
   
