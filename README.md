@@ -10,7 +10,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/build-Robson%20Luiz-0e76a8?logo=linkedin&logoColor=white&label=By&labelColor=0e76a8">
 
   </a>
-  <a href="https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/LICENSE.md">
+  <a href="https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/LICENSE">
       <img alt="By Robson Luiz" src="https://img.shields.io/github/license/RobsonLSilva/jdbc-basico-java.svg?colorB=ff0000">
   </a> 
   
@@ -19,7 +19,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#pre_riquisito">Pré-requisitos</a> •
- <a href="#licença">Licença</a> • 
+ <a href="#licenca">Licença</a> • 
  <a href="#contato">Contato</a>
 </p>
 
@@ -30,14 +30,14 @@
 Servir de base ao aprendizado sobre persistência de dados utilizando a linguagem <strong>java</strong> em conjunto com a biblioteca <strong>JDBC</strong> com Design Pattern (DAO).
 </p>
 <p>
-Foi utilizado o <a href="https://www.mysql.com/"><img src="https://img.shields.io/static/v1?label=Banco de dados&message=Mysql&color=white&style=plastic&logo=mysql&logoColor=white"/></a> no projeto, onde foi criado uma entidade cliente. Em java foram criadas algumas classes, uma classe DB para controlar as conexões, uma classe Cliente com os atributos condizentes com a entidade cliente criada no banco de dados.
+Foi utilizado o <a href="https://www.mysql.com/"><img src="https://img.shields.io/static/v1?label=Banco de dados&message=Mysql&color=white&style=plastic&logo=mysql&logoColor=white"/></a> no projeto, onde foi criado uma entidade cliente. Em java foram criadas algumas classes, uma classe DB para controlar as conexões, uma classe Cliente com os atributos condizentes com a entidade cliente criada no banco de dados, uma interface ClienteDao onde existe os métodos a serem implementados e uma classe de implementação chamada ClienteDaoJDBC que implementa todos os métodos da interface ClienteDao.
 </p>
 <p>
 As quatro operações foram implementadas:
 <li style="list-style-type: none;">✅  Create  &emsp;🚀 Concluido.</li>
-<li style="list-style-type: none;">👁️  Read    &emsp;&ensp;🚧 Em desenvolvimento.</li>
-<li style="list-style-type: none;">♻️  Update  &ensp;🚧 Em desenvolvimento.</li>
-<li style="list-style-type: none;">❌  Delete  &emsp;🚧 Em desenvolvimento.</li>
+<li style="list-style-type: none;">👁️  Read    &emsp;&ensp;🚀 Concluido.</li>
+<li style="list-style-type: none;">♻️  Update  &ensp;🚀 Concluido.</li>
+<li style="list-style-type: none;">❌  Delete  &emsp;🚀 Concluido.</li>
 </p>
 
 
