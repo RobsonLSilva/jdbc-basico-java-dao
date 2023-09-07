@@ -8,7 +8,7 @@ public interface ClienteDao {
 
     void insert(Cliente cliente);
     void update(Cliente cliente);
-    void deleteById(Integer id);
-    Cliente findById(Integer id);
+    Integer deleteById(Long id);
+    Cliente findById(Long id);
     List<Cliente> findAll();
 } 

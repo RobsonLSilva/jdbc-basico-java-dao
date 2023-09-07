@@ -6,7 +6,7 @@ public class Cliente implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
-    private long id;
+    private Long id;
     private String name;
     private String cpf;
     private String phone;
@@ -14,18 +14,18 @@ public class Cliente implements Serializable {
     public Cliente() {
     }
 
-    public Cliente(long id, String name, String cpf, String phone) {
+    public Cliente(Long id, String name, String cpf, String phone) {
         this.id = id;
         this.name = name;
         this.cpf = cpf;
         this.phone = phone;
     }
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
