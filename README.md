@@ -19,6 +19,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#pre_riquisito">Pré-requisitos</a> •
+ <a href="#telas">Telas</a> •
  <a href="#licenca">Licença</a> • 
  <a href="#contato">Contato</a>
 </p>
@@ -46,13 +47,13 @@ As quatro operações foram implementadas:
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [JDK](https://www.oracle.com/java/technologies/downloads/) e um banco de dados, aconselho a utilizar o [MySql](https://www.mysql.com/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou uma IDE como [Eclipse](https://www.eclipse.org/downloads/).
-<!--
+
 ## :clapper: Tela(s) <a name="telas"/></a>
 
- ![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/assets/tabela_clientes.png)
+ ![Tela](https://github.com/RobsonLSilva/jdbc-basico-java-dao/blob/main/assets/tabela_clientes.png)
 
-![Tela](https://github.com/RobsonLSilva/jdbc-basico-java/blob/master/assets/teste_crud.png)
--->
+![Tela](https://github.com/RobsonLSilva/jdbc-basico-java-dao/blob/main/assets/projeto.png)
+
 
 ## :memo: Licença <a name="licenca"></a>
 
